@@ -1,0 +1,601 @@
+date,order_id,region,product,quantity,unit_price
+2026-06-15,ORD-10001,West,Monitor arm,6,59.0
+2026-01-25,ORD-10002,North,Office chair,3,189.0
+2026-01-30,ORD-10003,North,USB-C hub,1,34.5
+2026-08-11,ORD-10004,North,Wireless mouse,2,24.9
+2026-02-16,ORD-10005,North,Wireless mouse,5,24.9
+2026-03-05,ORD-10006,North,USB-C hub,5,34.5
+2026-07-23,ORD-10007,South,Desk lamp,1,39.9
+2026-03-10,ORD-10008,West,Standing desk,2,420.0
+2026-03-02,ORD-10009,South,Standing desk,1,420.0
+2026-04-07,ORD-10010,North,Notebook pack,5,12.0
+2026-02-02,ORD-10011,South,Desk lamp,4,39.9
+2026-08-07,ORD-10012,West,Notebook pack,5,12.0
+2026-08-21,ORD-10013,East,Notebook pack,2,12.0
+2026-04-03,ORD-10014,North,USB-C hub,5,34.5
+2026-06-03,ORD-10015,East,Webcam,6,69.0
+2026-08-18,ORD-10016,North,Standing desk,1,420.0
+2026-09-20,ORD-10017,South,Wireless mouse,3,24.9
+2026-03-19,ORD-10018,West,Webcam,1,69.0
+2026-02-09,ORD-10019,East,Notebook pack,6,12.0
+2026-06-29,ORD-10020,West,Webcam,1,69.0
+2026-02-17,ORD-10021,West,Standing desk,6,420.0
+2026-02-03,ORD-10022,East,Desk lamp,6,39.9
+2026-08-17,ORD-10023,West,Standing desk,6,420.0
+2026-06-27,ORD-10024,West,Desk lamp,3,39.9
+2026-03-28,ORD-10025,West,Office chair,1,189.0
+2026-04-22,ORD-10026,South,Standing desk,6,420.0
+2026-05-07,ORD-10027,West,Wireless mouse,4,24.9
+2026-02-11,ORD-10028,West,Monitor arm,4,59.0
+2026-05-23,ORD-10029,West,Monitor arm,5,59.0
+2026-05-23,ORD-10030,East,Wireless mouse,6,24.9
+2026-07-14,ORD-10031,South,USB-C hub,1,34.5
+2026-04-01,ORD-10032,South,Monitor arm,6,59.0
+2026-04-30,ORD-10033,West,Desk lamp,5,39.9
+2026-04-04,ORD-10034,East,Standing desk,1,420.0
+2026-03-16,ORD-10035,East,Wireless mouse,5,24.9
+2026-06-13,ORD-10036,North,Monitor arm,4,59.0
+2026-07-20,ORD-10037,West,Wireless mouse,4,24.9
+2026-02-23,ORD-10038,West,Webcam,1,69.0
+2026-04-08,ORD-10039,South,Office chair,4,189.0
+2026-03-25,ORD-10040,East,Office chair,5,189.0
+2026-01-27,ORD-10041,North,Office chair,5,189.0
+2026-03-19,ORD-10042,East,Office chair,5,189.0
+2026-01-14,ORD-10043,South,Office chair,5,189.0
+2026-07-12,ORD-10044,East,Monitor arm,3,59.0
+2026-07-06,ORD-10045,North,Webcam,1,69.0
+2026-09-07,ORD-10046,West,Webcam,4,69.0
+2026-06-09,ORD-10047,South,Office chair,1,189.0
+2026-06-25,ORD-10048,West,Standing desk,6,420.0
+2026-03-24,ORD-10049,South,Desk lamp,5,39.9
+2026-07-05,ORD-10050,North,Monitor arm,5,59.0
+2026-06-02,ORD-10051,East,Office chair,5,189.0
+2026-07-07,ORD-10052,East,Monitor arm,2,59.0
+2026-09-15,ORD-10053,South,Notebook pack,5,12.0
+2026-04-10,ORD-10054,West,USB-C hub,6,34.5
+2026-04-27,ORD-10055,West,USB-C hub,3,34.5
+2026-01-15,ORD-10056,East,Desk lamp,4,39.9
+2026-05-13,ORD-10057,East,USB-C hub,4,34.5
+2026-06-28,ORD-10058,North,Notebook pack,2,12.0
+2026-02-22,ORD-10059,West,USB-C hub,2,34.5
+2026-06-22,ORD-10060,West,USB-C hub,5,34.5
+2026-01-01,ORD-10061,East,Webcam,6,69.0
+2026-02-13,ORD-10062,West,Office chair,6,189.0
+2026-04-13,ORD-10063,South,Webcam,4,69.0
+2026-06-20,ORD-10064,West,Office chair,4,189.0
+2026-07-25,ORD-10065,South,Office chair,2,189.0
+2026-03-07,ORD-10066,South,Desk lamp,5,39.9
+2026-08-27,ORD-10067,West,Monitor arm,6,59.0
+2026-06-29,ORD-10068,South,Monitor arm,1,59.0
+2026-01-08,ORD-10069,South,Office chair,4,189.0
+2026-04-10,ORD-10070,North,USB-C hub,3,34.5
+2026-04-19,ORD-10071,South,Standing desk,5,420.0
+2026-06-16,ORD-10072,West,Standing desk,2,420.0
+2026-02-01,ORD-10073,West,Notebook pack,6,12.0
+2026-09-22,ORD-10074,South,Wireless mouse,5,24.9
+2026-03-19,ORD-10075,West,Desk lamp,2,39.9
+2026-01-03,ORD-10076,South,Monitor arm,2,59.0
+2026-08-31,ORD-10077,North,Office chair,3,189.0
+2026-09-23,ORD-10078,North,Webcam,5,69.0
+2026-01-30,ORD-10079,South,USB-C hub,3,34.5
+2026-01-22,ORD-10080,West,Office chair,5,189.0
+2026-01-15,ORD-10081,West,Office chair,3,189.0
+2026-09-16,ORD-10082,East,USB-C hub,4,34.5
+2026-09-18,ORD-10083,South,Webcam,6,69.0
+2026-09-25,ORD-10084,South,Standing desk,4,420.0
+2026-03-12,ORD-10085,North,Wireless mouse,4,24.9
+2026-08-15,ORD-10086,North,Notebook pack,6,12.0
+2026-05-04,ORD-10087,North,Wireless mouse,2,24.9
+2026-06-05,ORD-10088,South,Office chair,6,189.0
+2026-07-07,ORD-10089,East,Monitor arm,2,59.0
+2026-08-28,ORD-10090,North,USB-C hub,4,34.5
+2026-09-07,ORD-10091,South,Monitor arm,2,59.0
+2026-08-09,ORD-10092,East,Wireless mouse,4,24.9
+2026-04-11,ORD-10093,East,Notebook pack,1,12.0
+2026-07-07,ORD-10094,East,Desk lamp,5,39.9
+2026-08-23,ORD-10095,North,Webcam,4,69.0
+2026-06-19,ORD-10096,North,Standing desk,1,420.0
+2026-04-28,ORD-10097,North,Office chair,3,189.0
+2026-05-20,ORD-10098,South,Desk lamp,3,39.9
+2026-03-08,ORD-10099,East,Wireless mouse,4,24.9
+2026-03-18,ORD-10100,East,Webcam,1,69.0
+2026-05-23,ORD-10101,South,Desk lamp,4,39.9
+2026-02-07,ORD-10102,North,Standing desk,6,420.0
+2026-02-15,ORD-10103,North,Standing desk,5,420.0
+2026-04-24,ORD-10104,East,Office chair,1,189.0
+2026-08-21,ORD-10105,East,Desk lamp,5,39.9
+2026-08-02,ORD-10106,South,Standing desk,1,420.0
+2026-09-27,ORD-10107,North,USB-C hub,2,34.5
+2026-05-15,ORD-10108,South,Desk lamp,2,39.9
+2026-06-09,ORD-10109,South,Standing desk,3,420.0
+2026-08-17,ORD-10110,East,Monitor arm,3,59.0
+2026-01-10,ORD-10111,North,Standing desk,1,420.0
+2026-01-10,ORD-10112,West,USB-C hub,2,34.5
+2026-08-17,ORD-10113,West,Office chair,6,189.0
+2026-09-11,ORD-10114,East,Wireless mouse,6,24.9
+2026-04-21,ORD-10115,East,USB-C hub,2,34.5
+2026-03-13,ORD-10116,East,Wireless mouse,1,24.9
+2026-03-08,ORD-10117,North,Desk lamp,6,39.9
+2026-05-11,ORD-10118,South,Wireless mouse,1,24.9
+2026-02-13,ORD-10119,East,Wireless mouse,5,24.9
+2026-05-05,ORD-10120,North,Standing desk,4,420.0
+2026-04-05,ORD-10121,East,Monitor arm,4,59.0
+2026-01-02,ORD-10122,East,Standing desk,3,420.0
+2026-06-15,ORD-10123,North,USB-C hub,3,34.5
+2026-04-22,ORD-10124,South,Notebook pack,1,12.0
+2026-06-21,ORD-10125,North,Wireless mouse,4,24.9
+2026-05-23,ORD-10126,South,USB-C hub,5,34.5
+2026-01-03,ORD-10127,East,Office chair,1,189.0
+2026-03-15,ORD-10128,North,Wireless mouse,4,24.9
+2026-01-12,ORD-10129,East,Standing desk,6,420.0
+2026-04-30,ORD-10130,South,Office chair,6,189.0
+2026-07-19,ORD-10131,West,Notebook pack,2,12.0
+2026-05-26,ORD-10132,North,Monitor arm,6,59.0
+2026-09-20,ORD-10133,South,Wireless mouse,5,24.9
+2026-09-16,ORD-10134,South,Desk lamp,1,39.9
+2026-01-16,ORD-10135,South,Desk lamp,6,39.9
+2026-07-04,ORD-10136,West,Office chair,4,189.0
+2026-01-26,ORD-10137,South,Desk lamp,4,39.9
+2026-05-16,ORD-10138,West,Desk lamp,1,39.9
+2026-09-15,ORD-10139,North,Office chair,6,189.0
+2026-08-31,ORD-10140,North,Standing desk,3,420.0
+2026-05-01,ORD-10141,South,USB-C hub,6,34.5
+2026-08-24,ORD-10142,West,Webcam,1,69.0
+2026-09-03,ORD-10143,North,Standing desk,5,420.0
+2026-04-12,ORD-10144,South,Office chair,3,189.0
+2026-05-11,ORD-10145,South,Standing desk,1,420.0
+2026-09-04,ORD-10146,West,Desk lamp,3,39.9
+2026-02-20,ORD-10147,West,USB-C hub,3,34.5
+2026-09-22,ORD-10148,West,Standing desk,4,420.0
+2026-08-27,ORD-10149,South,Office chair,3,189.0
+2026-02-13,ORD-10150,North,Webcam,3,69.0
+2026-08-23,ORD-10151,West,Office chair,3,189.0
+2026-07-18,ORD-10152,South,USB-C hub,1,34.5
+2026-02-16,ORD-10153,East,Monitor arm,3,59.0
+2026-03-09,ORD-10154,North,Standing desk,6,420.0
+2026-07-06,ORD-10155,West,USB-C hub,4,34.5
+2026-07-21,ORD-10156,South,Desk lamp,1,39.9
+2026-09-09,ORD-10157,West,Webcam,3,69.0
+2026-03-14,ORD-10158,East,Wireless mouse,4,24.9
+2026-06-11,ORD-10159,East,Office chair,1,189.0
+2026-06-16,ORD-10160,West,Notebook pack,1,12.0
+2026-04-11,ORD-10161,East,Desk lamp,3,39.9
+2026-07-10,ORD-10162,West,Office chair,4,189.0
+2026-02-09,ORD-10163,West,Notebook pack,3,12.0
+2026-01-25,ORD-10164,North,Standing desk,1,420.0
+2026-05-27,ORD-10165,South,Monitor arm,3,59.0
+2026-08-12,ORD-10166,South,Notebook pack,3,12.0
+2026-08-08,ORD-10167,West,Desk lamp,5,39.9
+2026-04-15,ORD-10168,North,Office chair,6,189.0
+2026-07-30,ORD-10169,South,Webcam,6,69.0
+2026-05-27,ORD-10170,North,Webcam,5,69.0
+2026-03-07,ORD-10171,West,Monitor arm,4,59.0
+2026-06-25,ORD-10172,East,Standing desk,3,420.0
+2026-05-14,ORD-10173,South,Wireless mouse,3,24.9
+2026-09-05,ORD-10174,North,Wireless mouse,2,24.9
+2026-03-24,ORD-10175,South,Office chair,5,189.0
+2026-09-12,ORD-10176,West,USB-C hub,3,34.5
+2026-08-19,ORD-10177,South,Wireless mouse,5,24.9
+2026-04-09,ORD-10178,North,USB-C hub,2,34.5
+2026-06-25,ORD-10179,East,Office chair,2,189.0
+2026-07-08,ORD-10180,South,Standing desk,1,420.0
+2026-07-31,ORD-10181,West,Wireless mouse,6,24.9
+2026-09-26,ORD-10182,West,USB-C hub,3,34.5
+2026-06-23,ORD-10183,West,Desk lamp,3,39.9
+2026-07-04,ORD-10184,South,Monitor arm,1,59.0
+2026-05-19,ORD-10185,West,USB-C hub,4,34.5
+2026-08-17,ORD-10186,East,Wireless mouse,1,24.9
+2026-03-07,ORD-10187,West,Desk lamp,6,39.9
+2026-08-31,ORD-10188,North,Webcam,1,69.0
+2026-07-20,ORD-10189,West,Webcam,2,69.0
+2026-02-25,ORD-10190,South,USB-C hub,2,34.5
+2026-09-25,ORD-10191,West,Office chair,1,189.0
+2026-01-21,ORD-10192,South,Desk lamp,2,39.9
+2026-01-20,ORD-10193,South,Standing desk,6,420.0
+2026-05-09,ORD-10194,North,Wireless mouse,1,24.9
+2026-02-06,ORD-10195,South,Standing desk,4,420.0
+2026-05-14,ORD-10196,North,USB-C hub,1,34.5
+2026-06-04,ORD-10197,East,Webcam,3,69.0
+2026-05-05,ORD-10198,South,Webcam,5,69.0
+2026-05-07,ORD-10199,West,Desk lamp,6,39.9
+2026-06-07,ORD-10200,North,Desk lamp,2,39.9
+2026-09-13,ORD-10201,North,Wireless mouse,3,24.9
+2026-04-27,ORD-10202,East,Wireless mouse,2,24.9
+2026-09-10,ORD-10203,East,Desk lamp,6,39.9
+2026-08-04,ORD-10204,West,Notebook pack,2,12.0
+2026-01-04,ORD-10205,North,Standing desk,2,420.0
+2026-09-11,ORD-10206,East,USB-C hub,2,34.5
+2026-04-29,ORD-10207,South,Webcam,3,69.0
+2026-06-01,ORD-10208,West,Office chair,5,189.0
+2026-04-06,ORD-10209,West,USB-C hub,4,34.5
+2026-01-29,ORD-10210,West,Monitor arm,1,59.0
+2026-04-20,ORD-10211,South,Desk lamp,4,39.9
+2026-01-27,ORD-10212,South,Desk lamp,4,39.9
+2026-08-19,ORD-10213,North,Notebook pack,1,12.0
+2026-03-26,ORD-10214,South,Notebook pack,2,12.0
+2026-09-26,ORD-10215,North,Webcam,3,69.0
+2026-07-13,ORD-10216,East,Notebook pack,4,12.0
+2026-03-28,ORD-10217,North,Office chair,1,189.0
+2026-05-24,ORD-10218,East,Office chair,4,189.0
+2026-03-05,ORD-10219,West,USB-C hub,3,34.5
+2026-06-08,ORD-10220,North,Wireless mouse,1,24.9
+2026-08-31,ORD-10221,East,USB-C hub,5,34.5
+2026-08-17,ORD-10222,East,USB-C hub,3,34.5
+2026-08-31,ORD-10223,West,Desk lamp,2,39.9
+2026-07-27,ORD-10224,West,Desk lamp,1,39.9
+2026-08-26,ORD-10225,North,Office chair,3,189.0
+2026-04-10,ORD-10226,East,Office chair,3,189.0
+2026-05-20,ORD-10227,North,Notebook pack,3,12.0
+2026-06-12,ORD-10228,East,Standing desk,1,420.0
+2026-02-03,ORD-10229,South,Desk lamp,1,39.9
+2026-09-01,ORD-10230,West,Webcam,3,69.0
+2026-08-09,ORD-10231,South,Webcam,4,69.0
+2026-04-04,ORD-10232,East,Desk lamp,6,39.9
+2026-03-19,ORD-10233,East,USB-C hub,3,34.5
+2026-08-24,ORD-10234,North,Notebook pack,5,12.0
+2026-04-12,ORD-10235,South,Wireless mouse,2,24.9
+2026-07-28,ORD-10236,North,Office chair,4,189.0
+2026-06-16,ORD-10237,West,Monitor arm,1,59.0
+2026-02-06,ORD-10238,North,Standing desk,2,420.0
+2026-02-19,ORD-10239,West,Wireless mouse,6,24.9
+2026-08-17,ORD-10240,South,Monitor arm,2,59.0
+2026-08-02,ORD-10241,South,Webcam,6,69.0
+2026-03-04,ORD-10242,East,Standing desk,3,420.0
+2026-05-18,ORD-10243,East,Notebook pack,6,12.0
+2026-05-14,ORD-10244,West,USB-C hub,2,34.5
+2026-04-06,ORD-10245,South,USB-C hub,2,34.5
+2026-05-25,ORD-10246,East,USB-C hub,1,34.5
+2026-07-22,ORD-10247,South,Standing desk,5,420.0
+2026-09-27,ORD-10248,North,USB-C hub,6,34.5
+2026-08-26,ORD-10249,North,Desk lamp,1,39.9
+2026-09-01,ORD-10250,West,USB-C hub,3,34.5
+2026-01-21,ORD-10251,South,Standing desk,1,420.0
+2026-01-26,ORD-10252,South,USB-C hub,1,34.5
+2026-07-10,ORD-10253,West,Monitor arm,5,59.0
+2026-05-14,ORD-10254,North,Desk lamp,6,39.9
+2026-06-29,ORD-10255,North,USB-C hub,3,34.5
+2026-06-24,ORD-10256,North,Monitor arm,2,59.0
+2026-05-11,ORD-10257,South,Desk lamp,1,39.9
+2026-06-17,ORD-10258,East,Wireless mouse,2,24.9
+2026-06-09,ORD-10259,South,Office chair,1,189.0
+2026-09-11,ORD-10260,North,Webcam,4,69.0
+2026-02-21,ORD-10261,South,Wireless mouse,6,24.9
+2026-02-16,ORD-10262,West,Monitor arm,6,59.0
+2026-05-19,ORD-10263,East,Wireless mouse,6,24.9
+2026-06-07,ORD-10264,North,Wireless mouse,3,24.9
+2026-07-02,ORD-10265,West,Wireless mouse,1,24.9
+2026-07-06,ORD-10266,West,USB-C hub,6,34.5
+2026-07-27,ORD-10267,North,USB-C hub,4,34.5
+2026-03-22,ORD-10268,North,Wireless mouse,1,24.9
+2026-07-27,ORD-10269,West,Notebook pack,2,12.0
+2026-03-08,ORD-10270,North,Desk lamp,5,39.9
+2026-03-14,ORD-10271,North,Wireless mouse,5,24.9
+2026-07-09,ORD-10272,South,Monitor arm,3,59.0
+2026-05-26,ORD-10273,South,Monitor arm,1,59.0
+2026-02-25,ORD-10274,West,Wireless mouse,2,24.9
+2026-06-04,ORD-10275,North,Monitor arm,4,59.0
+2026-06-11,ORD-10276,West,Desk lamp,1,39.9
+2026-03-24,ORD-10277,West,USB-C hub,5,34.5
+2026-04-11,ORD-10278,South,Webcam,5,69.0
+2026-04-22,ORD-10279,West,Desk lamp,5,39.9
+2026-03-22,ORD-10280,East,Wireless mouse,1,24.9
+2026-03-18,ORD-10281,South,USB-C hub,1,34.5
+2026-01-20,ORD-10282,North,Notebook pack,4,12.0
+2026-08-22,ORD-10283,West,Standing desk,3,420.0
+2026-05-08,ORD-10284,West,Wireless mouse,6,24.9
+2026-07-08,ORD-10285,West,Webcam,2,69.0
+2026-01-12,ORD-10286,West,Desk lamp,4,39.9
+2026-05-01,ORD-10287,West,Webcam,2,69.0
+2026-08-31,ORD-10288,North,Wireless mouse,1,24.9
+2026-03-07,ORD-10289,West,Notebook pack,3,12.0
+2026-02-16,ORD-10290,North,Webcam,1,69.0
+2026-03-08,ORD-10291,East,Office chair,6,189.0
+2026-09-19,ORD-10292,North,Office chair,5,189.0
+2026-07-13,ORD-10293,North,Monitor arm,1,59.0
+2026-02-26,ORD-10294,South,USB-C hub,4,34.5
+2026-05-28,ORD-10295,South,Monitor arm,1,59.0
+2026-06-29,ORD-10296,South,Standing desk,3,420.0
+2026-05-21,ORD-10297,South,Webcam,3,69.0
+2026-09-15,ORD-10298,South,Webcam,5,69.0
+2026-05-15,ORD-10299,East,USB-C hub,3,34.5
+2026-01-19,ORD-10300,South,USB-C hub,4,34.5
+2026-03-24,ORD-10301,East,Standing desk,4,420.0
+2026-03-28,ORD-10302,North,Standing desk,5,420.0
+2026-01-25,ORD-10303,West,Notebook pack,5,12.0
+2026-09-24,ORD-10304,East,Office chair,5,189.0
+2026-07-21,ORD-10305,East,Notebook pack,4,12.0
+2026-07-08,ORD-10306,East,Monitor arm,3,59.0
+2026-02-11,ORD-10307,South,Webcam,2,69.0
+2026-01-25,ORD-10308,East,Standing desk,3,420.0
+2026-06-10,ORD-10309,North,Desk lamp,2,39.9
+2026-03-18,ORD-10310,West,Standing desk,4,420.0
+2026-09-20,ORD-10311,North,Notebook pack,2,12.0
+2026-09-08,ORD-10312,North,USB-C hub,1,34.5
+2026-01-28,ORD-10313,East,Desk lamp,3,39.9
+2026-02-24,ORD-10314,South,Notebook pack,4,12.0
+2026-06-04,ORD-10315,South,Monitor arm,3,59.0
+2026-09-01,ORD-10316,South,Monitor arm,1,59.0
+2026-05-05,ORD-10317,West,Monitor arm,1,59.0
+2026-02-02,ORD-10318,East,Monitor arm,4,59.0
+2026-05-16,ORD-10319,North,Desk lamp,6,39.9
+2026-06-29,ORD-10320,West,Webcam,2,69.0
+2026-03-26,ORD-10321,North,Desk lamp,1,39.9
+2026-01-13,ORD-10322,South,Wireless mouse,2,24.9
+2026-03-23,ORD-10323,North,Desk lamp,1,39.9
+2026-04-11,ORD-10324,West,Monitor arm,2,59.0
+2026-09-23,ORD-10325,South,Wireless mouse,5,24.9
+2026-06-08,ORD-10326,East,Office chair,6,189.0
+2026-01-25,ORD-10327,North,Webcam,4,69.0
+2026-08-12,ORD-10328,North,Webcam,6,69.0
+2026-08-20,ORD-10329,South,Monitor arm,1,59.0
+2026-05-14,ORD-10330,North,USB-C hub,1,34.5
+2026-06-21,ORD-10331,North,Standing desk,3,420.0
+2026-08-12,ORD-10332,East,Standing desk,6,420.0
+2026-04-22,ORD-10333,North,Office chair,2,189.0
+2026-05-14,ORD-10334,South,USB-C hub,2,34.5
+2026-06-17,ORD-10335,West,USB-C hub,3,34.5
+2026-05-03,ORD-10336,West,Wireless mouse,4,24.9
+2026-01-04,ORD-10337,West,Desk lamp,6,39.9
+2026-04-30,ORD-10338,South,Standing desk,4,420.0
+2026-02-09,ORD-10339,South,Monitor arm,1,59.0
+2026-01-14,ORD-10340,North,Office chair,5,189.0
+2026-03-24,ORD-10341,South,Notebook pack,6,12.0
+2026-01-15,ORD-10342,North,Desk lamp,2,39.9
+2026-01-22,ORD-10343,North,Office chair,1,189.0
+2026-07-06,ORD-10344,North,USB-C hub,6,34.5
+2026-07-16,ORD-10345,South,Office chair,2,189.0
+2026-04-15,ORD-10346,North,Office chair,1,189.0
+2026-02-14,ORD-10347,West,Standing desk,1,420.0
+2026-03-09,ORD-10348,South,Office chair,3,189.0
+2026-06-13,ORD-10349,West,Notebook pack,3,12.0
+2026-01-11,ORD-10350,East,Notebook pack,3,12.0
+2026-01-25,ORD-10351,East,Notebook pack,5,12.0
+2026-09-15,ORD-10352,East,Webcam,5,69.0
+2026-01-16,ORD-10353,North,Wireless mouse,4,24.9
+2026-09-23,ORD-10354,East,Office chair,4,189.0
+2026-01-25,ORD-10355,North,USB-C hub,5,34.5
+2026-05-28,ORD-10356,West,Monitor arm,1,59.0
+2026-09-26,ORD-10357,East,USB-C hub,1,34.5
+2026-01-03,ORD-10358,West,Notebook pack,1,12.0
+2026-09-09,ORD-10359,West,Monitor arm,5,59.0
+2026-06-27,ORD-10360,South,Standing desk,3,420.0
+2026-04-20,ORD-10361,West,USB-C hub,2,34.5
+2026-02-26,ORD-10362,West,Office chair,6,189.0
+2026-02-23,ORD-10363,East,Notebook pack,1,12.0
+2026-07-25,ORD-10364,North,Wireless mouse,4,24.9
+2026-01-13,ORD-10365,South,Notebook pack,3,12.0
+2026-05-15,ORD-10366,South,Wireless mouse,4,24.9
+2026-04-30,ORD-10367,South,Webcam,5,69.0
+2026-01-18,ORD-10368,East,Notebook pack,5,12.0
+2026-03-21,ORD-10369,East,Webcam,2,69.0
+2026-08-26,ORD-10370,East,Webcam,5,69.0
+2026-04-29,ORD-10371,East,Monitor arm,4,59.0
+2026-05-02,ORD-10372,East,USB-C hub,3,34.5
+2026-03-21,ORD-10373,South,Monitor arm,6,59.0
+2026-06-17,ORD-10374,South,Notebook pack,2,12.0
+2026-06-17,ORD-10375,East,USB-C hub,6,34.5
+2026-02-22,ORD-10376,North,Monitor arm,2,59.0
+2026-07-16,ORD-10377,South,Monitor arm,3,59.0
+2026-06-02,ORD-10378,East,Wireless mouse,2,24.9
+2026-02-25,ORD-10379,East,Office chair,2,189.0
+2026-07-18,ORD-10380,North,Webcam,1,69.0
+2026-07-24,ORD-10381,South,Wireless mouse,5,24.9
+2026-06-01,ORD-10382,North,Webcam,2,69.0
+2026-05-12,ORD-10383,North,Wireless mouse,6,24.9
+2026-05-05,ORD-10384,West,Wireless mouse,2,24.9
+2026-04-28,ORD-10385,North,Monitor arm,4,59.0
+2026-08-10,ORD-10386,East,Notebook pack,6,12.0
+2026-02-20,ORD-10387,South,Wireless mouse,4,24.9
+2026-03-22,ORD-10388,West,Standing desk,4,420.0
+2026-08-22,ORD-10389,West,Desk lamp,5,39.9
+2026-04-04,ORD-10390,North,Notebook pack,4,12.0
+2026-09-08,ORD-10391,North,Office chair,3,189.0
+2026-04-22,ORD-10392,South,Monitor arm,5,59.0
+2026-06-28,ORD-10393,West,Office chair,5,189.0
+2026-04-15,ORD-10394,North,Webcam,6,69.0
+2026-07-09,ORD-10395,West,Notebook pack,6,12.0
+2026-08-22,ORD-10396,South,USB-C hub,4,34.5
+2026-09-21,ORD-10397,East,Office chair,6,189.0
+2026-01-29,ORD-10398,East,Standing desk,4,420.0
+2026-07-24,ORD-10399,North,Desk lamp,1,39.9
+2026-08-03,ORD-10400,East,Wireless mouse,5,24.9
+2026-05-16,ORD-10401,South,Office chair,3,189.0
+2026-07-25,ORD-10402,West,USB-C hub,4,34.5
+2026-04-19,ORD-10403,South,Monitor arm,1,59.0
+2026-04-09,ORD-10404,South,Webcam,2,69.0
+2026-06-30,ORD-10405,West,Wireless mouse,3,24.9
+2026-03-06,ORD-10406,East,Webcam,2,69.0
+2026-05-17,ORD-10407,East,Wireless mouse,4,24.9
+2026-04-06,ORD-10408,North,Webcam,6,69.0
+2026-05-24,ORD-10409,South,Notebook pack,6,12.0
+2026-06-04,ORD-10410,West,Notebook pack,4,12.0
+2026-08-08,ORD-10411,East,Office chair,2,189.0
+2026-06-05,ORD-10412,North,Wireless mouse,1,24.9
+2026-06-16,ORD-10413,East,Monitor arm,6,59.0
+2026-01-08,ORD-10414,South,Desk lamp,1,39.9
+2026-05-31,ORD-10415,North,Standing desk,5,420.0
+2026-03-15,ORD-10416,South,USB-C hub,4,34.5
+2026-06-27,ORD-10417,South,Monitor arm,4,59.0
+2026-03-27,ORD-10418,East,Office chair,2,189.0
+2026-09-11,ORD-10419,North,USB-C hub,6,34.5
+2026-08-13,ORD-10420,North,Office chair,3,189.0
+2026-08-03,ORD-10421,South,USB-C hub,4,34.5
+2026-09-10,ORD-10422,West,Desk lamp,4,39.9
+2026-03-15,ORD-10423,South,Webcam,4,69.0
+2026-03-26,ORD-10424,South,Desk lamp,3,39.9
+2026-08-28,ORD-10425,East,Webcam,4,69.0
+2026-07-11,ORD-10426,West,Wireless mouse,6,24.9
+2026-02-08,ORD-10427,East,Monitor arm,6,59.0
+2026-01-15,ORD-10428,North,Desk lamp,6,39.9
+2026-06-19,ORD-10429,West,Office chair,4,189.0
+2026-03-15,ORD-10430,South,Desk lamp,6,39.9
+2026-08-01,ORD-10431,East,Monitor arm,1,59.0
+2026-07-07,ORD-10432,West,Notebook pack,5,12.0
+2026-04-18,ORD-10433,West,Standing desk,3,420.0
+2026-08-05,ORD-10434,North,Standing desk,3,420.0
+2026-05-30,ORD-10435,West,Notebook pack,4,12.0
+2026-06-20,ORD-10436,East,Standing desk,2,420.0
+2026-09-10,ORD-10437,East,Office chair,2,189.0
+2026-06-12,ORD-10438,South,Standing desk,5,420.0
+2026-02-14,ORD-10439,West,Desk lamp,6,39.9
+2026-07-27,ORD-10440,West,Desk lamp,3,39.9
+2026-02-25,ORD-10441,North,Desk lamp,2,39.9
+2026-09-01,ORD-10442,West,Desk lamp,5,39.9
+2026-03-17,ORD-10443,South,Office chair,1,189.0
+2026-08-23,ORD-10444,North,Monitor arm,6,59.0
+2026-04-03,ORD-10445,West,Desk lamp,1,39.9
+2026-01-07,ORD-10446,South,Notebook pack,3,12.0
+2026-05-13,ORD-10447,South,Standing desk,4,420.0
+2026-01-18,ORD-10448,North,Notebook pack,4,12.0
+2026-01-28,ORD-10449,North,Webcam,1,69.0
+2026-08-04,ORD-10450,West,Wireless mouse,1,24.9
+2026-01-08,ORD-10451,South,Wireless mouse,4,24.9
+2026-07-31,ORD-10452,North,Office chair,6,189.0
+2026-08-30,ORD-10453,South,USB-C hub,6,34.5
+2026-01-08,ORD-10454,North,Wireless mouse,1,24.9
+2026-03-04,ORD-10455,South,Office chair,1,189.0
+2026-03-08,ORD-10456,North,Webcam,3,69.0
+2026-05-05,ORD-10457,South,Webcam,1,69.0
+2026-07-07,ORD-10458,North,Monitor arm,3,59.0
+2026-09-13,ORD-10459,East,Webcam,1,69.0
+2026-01-17,ORD-10460,North,Desk lamp,1,39.9
+2026-02-10,ORD-10461,East,Wireless mouse,3,24.9
+2026-03-26,ORD-10462,North,Webcam,3,69.0
+2026-07-08,ORD-10463,West,Webcam,6,69.0
+2026-03-27,ORD-10464,North,Monitor arm,3,59.0
+2026-03-25,ORD-10465,West,Wireless mouse,4,24.9
+2026-08-20,ORD-10466,East,Standing desk,3,420.0
+2026-05-24,ORD-10467,East,Desk lamp,5,39.9
+2026-01-08,ORD-10468,East,Monitor arm,5,59.0
+2026-08-08,ORD-10469,West,USB-C hub,4,34.5
+2026-07-12,ORD-10470,West,USB-C hub,3,34.5
+2026-01-01,ORD-10471,East,Notebook pack,3,12.0
+2026-08-05,ORD-10472,North,Monitor arm,3,59.0
+2026-03-14,ORD-10473,East,Monitor arm,5,59.0
+2026-09-13,ORD-10474,North,Notebook pack,5,12.0
+2026-09-06,ORD-10475,South,Wireless mouse,6,24.9
+2026-04-30,ORD-10476,North,Standing desk,6,420.0
+2026-07-22,ORD-10477,South,Webcam,3,69.0
+2026-01-05,ORD-10478,West,Wireless mouse,5,24.9
+2026-02-14,ORD-10479,North,Notebook pack,2,12.0
+2026-07-23,ORD-10480,East,Standing desk,4,420.0
+2026-09-17,ORD-10481,South,USB-C hub,2,34.5
+2026-04-09,ORD-10482,South,Office chair,6,189.0
+2026-05-29,ORD-10483,East,Notebook pack,4,12.0
+2026-09-22,ORD-10484,South,Monitor arm,1,59.0
+2026-09-10,ORD-10485,North,Notebook pack,3,12.0
+2026-08-26,ORD-10486,South,Office chair,3,189.0
+2026-01-16,ORD-10487,East,Notebook pack,5,12.0
+2026-01-11,ORD-10488,North,Office chair,2,189.0
+2026-09-06,ORD-10489,East,USB-C hub,3,34.5
+2026-08-07,ORD-10490,West,Office chair,5,189.0
+2026-03-09,ORD-10491,North,Standing desk,3,420.0
+2026-04-13,ORD-10492,West,Monitor arm,1,59.0
+2026-01-15,ORD-10493,North,Desk lamp,5,39.9
+2026-07-09,ORD-10494,West,Webcam,1,69.0
+2026-07-23,ORD-10495,North,Office chair,3,189.0
+2026-06-13,ORD-10496,North,USB-C hub,6,34.5
+2026-09-17,ORD-10497,South,Wireless mouse,4,24.9
+2026-03-23,ORD-10498,South,Notebook pack,6,12.0
+2026-04-24,ORD-10499,North,Monitor arm,3,59.0
+2026-06-30,ORD-10500,North,Desk lamp,1,39.9
+2026-05-13,ORD-10501,North,Webcam,1,69.0
+2026-03-16,ORD-10502,North,Notebook pack,2,12.0
+2026-06-02,ORD-10503,North,Webcam,4,69.0
+2026-06-15,ORD-10504,East,Notebook pack,4,12.0
+2026-03-05,ORD-10505,West,Notebook pack,4,12.0
+2026-03-28,ORD-10506,South,Webcam,2,69.0
+2026-01-07,ORD-10507,South,Webcam,1,69.0
+2026-03-22,ORD-10508,North,USB-C hub,5,34.5
+2026-07-11,ORD-10509,West,Monitor arm,1,59.0
+2026-07-17,ORD-10510,North,Desk lamp,4,39.9
+2026-06-23,ORD-10511,South,Notebook pack,4,12.0
+2026-03-01,ORD-10512,South,Notebook pack,3,12.0
+2026-04-24,ORD-10513,South,Desk lamp,6,39.9
+2026-08-20,ORD-10514,West,Monitor arm,2,59.0
+2026-05-17,ORD-10515,West,Wireless mouse,2,24.9
+2026-03-21,ORD-10516,East,Desk lamp,5,39.9
+2026-06-01,ORD-10517,South,Notebook pack,3,12.0
+2026-09-09,ORD-10518,East,Office chair,4,189.0
+2026-09-05,ORD-10519,South,Office chair,5,189.0
+2026-01-30,ORD-10520,West,USB-C hub,3,34.5
+2026-03-03,ORD-10521,South,Standing desk,3,420.0
+2026-08-10,ORD-10522,South,Standing desk,2,420.0
+2026-02-19,ORD-10523,East,Wireless mouse,4,24.9
+2026-03-25,ORD-10524,East,Desk lamp,2,39.9
+2026-01-09,ORD-10525,East,Webcam,5,69.0
+2026-03-13,ORD-10526,North,Webcam,5,69.0
+2026-05-27,ORD-10527,East,Monitor arm,4,59.0
+2026-01-21,ORD-10528,South,Wireless mouse,3,24.9
+2026-04-03,ORD-10529,South,Monitor arm,5,59.0
+2026-04-28,ORD-10530,South,Monitor arm,5,59.0
+2026-02-10,ORD-10531,West,Office chair,3,189.0
+2026-03-31,ORD-10532,South,USB-C hub,5,34.5
+2026-04-09,ORD-10533,South,Standing desk,1,420.0
+2026-02-03,ORD-10534,North,Wireless mouse,5,24.9
+2026-06-27,ORD-10535,East,Notebook pack,6,12.0
+2026-09-10,ORD-10536,North,Office chair,4,189.0
+2026-09-02,ORD-10537,East,Monitor arm,2,59.0
+2026-04-06,ORD-10538,North,Notebook pack,2,12.0
+2026-07-10,ORD-10539,East,Desk lamp,5,39.9
+2026-08-17,ORD-10540,North,Office chair,3,189.0
+2026-05-06,ORD-10541,West,Notebook pack,5,12.0
+2026-02-01,ORD-10542,North,Standing desk,6,420.0
+2026-09-11,ORD-10543,North,Webcam,5,69.0
+2026-03-10,ORD-10544,South,Desk lamp,1,39.9
+2026-04-25,ORD-10545,South,Monitor arm,1,59.0
+2026-06-09,ORD-10546,North,Standing desk,1,420.0
+2026-02-19,ORD-10547,East,USB-C hub,1,34.5
+2026-08-26,ORD-10548,West,USB-C hub,1,34.5
+2026-06-29,ORD-10549,South,Office chair,1,189.0
+2026-05-20,ORD-10550,West,Office chair,4,189.0
+2026-09-14,ORD-10551,North,Standing desk,1,420.0
+2026-03-04,ORD-10552,South,Wireless mouse,5,24.9
+2026-04-27,ORD-10553,South,USB-C hub,6,34.5
+2026-08-25,ORD-10554,South,Wireless mouse,1,24.9
+2026-07-19,ORD-10555,North,Wireless mouse,4,24.9
+2026-01-27,ORD-10556,East,Notebook pack,4,12.0
+2026-05-04,ORD-10557,West,Notebook pack,5,12.0
+2026-06-14,ORD-10558,North,Wireless mouse,3,24.9
+2026-09-22,ORD-10559,East,Monitor arm,2,59.0
+2026-08-05,ORD-10560,East,Desk lamp,1,39.9
+2026-04-06,ORD-10561,East,Office chair,4,189.0
+2026-04-13,ORD-10562,South,Desk lamp,2,39.9
+2026-08-04,ORD-10563,West,Wireless mouse,6,24.9
+2026-01-24,ORD-10564,North,Desk lamp,6,39.9
+2026-05-17,ORD-10565,North,Standing desk,5,420.0
+2026-02-21,ORD-10566,North,Standing desk,5,420.0
+2026-01-07,ORD-10567,South,Wireless mouse,1,24.9
+2026-05-28,ORD-10568,East,Office chair,3,189.0
+2026-03-27,ORD-10569,North,Office chair,5,189.0
+2026-09-21,ORD-10570,North,Standing desk,4,420.0
+2026-03-17,ORD-10571,North,Webcam,5,69.0
+2026-03-09,ORD-10572,West,Standing desk,5,420.0
+2026-05-28,ORD-10573,South,Standing desk,6,420.0
+2026-02-14,ORD-10574,West,Standing desk,5,420.0
+2026-04-24,ORD-10575,South,Wireless mouse,5,24.9
+2026-07-07,ORD-10576,East,Webcam,5,69.0
+2026-09-02,ORD-10577,East,Webcam,1,69.0
+2026-05-05,ORD-10578,South,Notebook pack,2,12.0
+2026-09-20,ORD-10579,West,Wireless mouse,1,24.9
+2026-06-30,ORD-10580,South,Monitor arm,3,59.0
+2026-06-16,ORD-10581,East,Webcam,3,69.0
+2026-04-21,ORD-10582,North,Standing desk,1,420.0
+2026-03-23,ORD-10583,East,Office chair,4,189.0
+2026-02-01,ORD-10584,West,Wireless mouse,3,24.9
+2026-02-25,ORD-10585,South,USB-C hub,4,34.5
+2026-06-22,ORD-10586,South,Notebook pack,6,12.0
+2026-04-14,ORD-10587,North,Standing desk,6,420.0
+2026-09-01,ORD-10588,South,Standing desk,4,420.0
+2026-02-22,ORD-10589,West,Desk lamp,5,39.9
+2026-03-02,ORD-10590,West,Webcam,5,69.0
+2026-03-18,ORD-10591,East,Wireless mouse,5,24.9
+2026-02-26,ORD-10592,West,Wireless mouse,6,24.9
+2026-08-23,ORD-10593,East,Standing desk,3,420.0
+2026-06-30,ORD-10594,West,Wireless mouse,6,24.9
+2026-06-14,ORD-10595,West,Desk lamp,4,39.9
+2026-08-16,ORD-10596,South,Standing desk,5,420.0
+2026-06-05,ORD-10597,West,Monitor arm,5,59.0
+2026-07-13,ORD-10598,North,USB-C hub,3,34.5
+2026-06-15,ORD-10599,East,USB-C hub,2,34.5
+2026-08-07,ORD-10600,North,Desk lamp,1,39.9
